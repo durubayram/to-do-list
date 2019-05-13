@@ -1,0 +1,36 @@
+.form-control {
+    display: inline-block;
+    }
+    .add_button {
+    margin: 10px 0px 10px 0px;
+    }
+    .checkbox {
+    margin-top: 20px;
+    }
+    .completed_item {
+    text-decoration: line-through;
+    }
+    h1 {
+    display: inline-block;
+    color: #292b33;
+    }
+    html,body {
+        background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100%;
+        font-family: 'Numans', sans-serif;
+    }
+    .text_holder {
+    display: block;
+    max-width: 100%;
+    word-wrap: break-word;
+    }
+    #main {
+    margin-top: 150px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 50%;
+    border: 1px solid #545454;
+    }
+    
